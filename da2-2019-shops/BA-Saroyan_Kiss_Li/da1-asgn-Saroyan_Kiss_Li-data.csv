@@ -1,53 +1,0 @@
-No.,Address,District,Shop name,"Inner City or NOT(Inner=1, Elsewhere=0)","Number of Cashiers","Open on Sunday? (no=0, yes=1)","Total Opening Hours/week","Price of Coca Cola","Price of Orbit"
-1," Budapest, Szent Imre t¨¦r 6-8, 1211 Hungary			",21,Aldi ,0,5,1,104,229,155
-2,"Budapest, Szent Imre t¨¦r 4, 1211 Hungary",21,Tobacco shop,0,1,1,106,285,160
-3,"Budapest, Kossuth Lajos u. 69, 1211 Hungary",21,Penny Market,0,4,1,95,229,155
-4,"Budapest, Kossuth Lajos u. 70, 1211 Hungary",21,Tobacco shop,0,1,1,168,270,130
-5,"Budapest, Kossuth Lajos u. 70, 1211 Hungary",21,Tesco Express,0,3,1,98,275,179
-6,"Budapest, Kossuth Lajos u. 85, 1211 Hungary",21,Szuper Diszkont,0,1,1,66.5,279,135
-7,"Budapest, Kossuth Lajos u. 85, 1211 Hungary",21,Zoldseg-gyumolcs,0,1,1,101.5,290,180
-8,"Budapest, Kossuth Lajos u. 85, 1211 Hungary",21,Tobacco shop,0,1,1,168,295,160
-9,"Budapest, Kossuth Lajos u. 98-96, 1211 Hungary",21,Dm,0,2,1,65,319,289
-10,"Budapest, Kossuth Lajos u. 85-99, 1211 Hungary",21,Spar,0,3,1,89.5,239,155
-11,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Tobacco shop,0,2,1,74,295,195
-12,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Aldi ,0,5,1,94,229,160
-13,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Rossmann,0,1,1,69,319,239
-14,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Fornetti,0,1,1,86,350,200
-15,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Coca Cola machine in Csepel Plaza,0,0,1,168,300,---
-16,"Budapest, II. R¨¢k¨®czi Ferenc utca 154-170, 1213 Hungary",21,Cinema Csepel,0,1,1,---,---,250
-17,"Budapest, G_rgey Art¨²r t¨¦r 20, 1212 Hungary",21,Tobacco shop,0,1,1,168,259,130
-18,"Budapest, G_rgey Art¨²r t¨¦r 20, 1212 Hungary",21,Spar,0,3,1,90,229,145
-19,"Budapest, G_rgey Art¨²r t¨¦r 20, 1212 Hungary",21,Rossmann,0,1,1,76,319,239
-20,"Budapest, G_rgey Art¨²r t¨¦r 20, 1212 Hungary",21,Grocery market,0,1,1,---,320,200
-21,"Budapest, G_rgey Art¨²r t¨¦r 20, 1212 Hungary",21,Chinese restaurant,0,1,1,82,350,---
-22,"Budapest, Kossuth Lajos u. 13, 1211 Hungary",21,Tobacco shop,0,1,1,106,---,160
-23,"Budapest, Sas u.1, 1051 Hungary",5,Roni ABC,1,2,1,168,299,189
-24,"Budapest, J¨®zsef Attila u. 18, 1051 Hungary",5,Budapest Souvenir Market,1,1,1,98,500,---
-25,"Budapest, J¨®zsef Attila u. 16, 1051 Hungary",5,Prima,1,4,1,93,339,155
-26,"Budapest, N¨¢dor u. 18, 1054 Hungary",5,Prima,1,5,0,78.5,399,155
-27,"Budapest, N¨¢dor u. 14, 1051 Hungary",5,Tobacco shop,1,1,1,97,310,200
-28,"Budapest, V¨¦rtanuk tere 1, 1054 Hungary",5,Spar,1,5,1,100,229,155
-29,"Budapest, B¨¢thory utca 8, 1054 Hungary",5,Aldi ,1,5,1,94,229,155
-30,"Budapest, B¨¢thory utca 10, 1054 Hungary",5,Tobacco shop,1,1,1,97,299,200
-31,"Budapest, B¨¢thory utca 19, 1054 Hungary",5,B¨¢thory ABC,1,1,1,108,329,170
-32,"Budapest, Bajcsy-Zsilinszky ut 66, 1054 Hungary",5,Asia Diszkont,1,1,0,60,280,130
-33,"Budapest, Bajcsy-Zsilinszky ut 59, 1054 Hungary",5,Asia Market,1,1,0,48,---,249
-34,"Budapest, Bajcsy-Zsilinszky ut 55, 1054 Hungary",5,Szuper Diszkont,1,1,1,79.5,350,150
-35,"Budapest, Bajcsy-Zsilinszky ut 61, 1054 Hungary",5,LIDL,1,6,1,94,219,155
-36,"Budapest, Pomaniczky u. 2, 1065 HUngary",5,Tobacco shop,1,2,1,168,300,170
-37,"Budapest, Pomaniczky u. 1, 1065 HUngary",5,Manna ABC,1,2,1,168,295,145
-38,"Budapest, Haj¨®s u. 45, 1065 Hungary",5,Szuper Diszkont,1,2,0,62,280,120
-39,"Budapest, Bajcsy-Zsilinszky ut 48, 1054 Hungary",5,Tobacco shop,1,1,1,168,310,199
-40,"Budapest, Bajcsy-Zsilinszky ut 34, 1054 Hungary",5,Friss Pekseg,1,1,1,126,300,250
-41,"Budapest, Bajcsy-Zsilinszky ut, 1065 Hungary",5,Real Pont Elelmiszer,1,1,1,84,279,150
-42,"Budapest, Bajcsy-Zsilinszky ut 23, 1065 Hungary",5,Tobacco shop,1,1,1,168,325,155
-43,"Budapest, Arany J¨¢nos u. 33, 1051 Hungary",5,ABC,1,1,1,168,320,195
-44,"Budapest N¨¢rcisz u., 1124",12,Coop,0,1,0,63.5,295,180
-45,"Budapest Kir¨¢lyh¨¢g¨® t¨¦r, 1123",12,Prima,0,2,1,91.5,339,155
-46,"Budapest Kis J¨¢nos u., 1121",12,Kinai Diszkont,0,1,1,79,270,120
-47,"Budapest Kl¨¦h Istv¨¢n u., 1121",12,Csokif¨¹gg_ ABC,0,2,0,81,280,130
-48,"Budapest B_sz_rm¨¦nyi u., 1123",12,Spar,0,3,1,89,229,155
-49,"Budapest B_sz_rm¨¦nyi u., 1123",12,Manna ABC,0,2,1,168,295,175
-50,"Budapest N¨¦metv_lgyi ¨²t, 1124",12,_jjelnappali,0,1,1,168,298,168
-51,"Budapest Fodor u., 1124",12,Z_lds¨¦ges,0,1,0,72,330,170
-52,"Budapest Pagony u., 1124",12,Tesco Express,0,5,1,101,275,179
