@@ -1,2 +1,7 @@
-# DA2_team_proj
-Team Project for DA2 - Coca Cola prices in Bp
+# Data Analysis 2 codes
+
+1. Team Assignment - cleaning datasets, running linear regressions
+
+2. Spline extra
+
+3. Logit / Probit models
