@@ -5,8 +5,8 @@ library(data.table)
 # step 0 download Google Drive directory
 # step 1 unzip in R
 
-unzip("da2-2019-shops.zip")
-all_dirs <- as.list(list.dirs("da2-2019-shops/", recursive = F))
+unzip("team_assignment/da2-2019-shops.zip")
+all_dirs <- as.list(list.dirs("team_assignment/da2-2019-shops/", recursive = F))
 
 # step 2 remove our repos to surely randomly select only those that do not belong to us
 
@@ -29,7 +29,7 @@ all_dirs[index_rabay] <- NULL
 library(rlist)
 
 #list.save(random_dirs, "random_list.rds")
-check_saved <- readRDS("random_list.rds")
+check_saved <- readRDS("team_assignment/random_list.rds")
 
 #identical(check_saved,random_dirs)
 #from now we use the saved random file (check_saved)
@@ -105,5 +105,5 @@ all_rows_by_length == all_rows_merged # great, the merge was successful
 
 View(merged)
 
-saveRDS(merged, "to_analyze.rds")
+saveRDS(merged, "team_assignment/to_analyze.rds")
 

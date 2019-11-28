@@ -1,0 +1,82 @@
+ID,Product_ID,Product,Price,Shop_ID,Shop_Name,Address_Street,Address_ZIP,Address_City,Google Rating,Type,Number_of_cashiers
+1,1,Coca Cola,259,1,GRoby,Villányi street 1,1114,Budapest,4.4,supermarket,2
+2,2,Orbit chewing gum,159,1,GRoby,Villányi street 1,1114,Budapest,4.4,supermarket,2
+3,1,Coca Cola,229,2,SPAR,Bartók Béla street 51,1114,Budapest,3.9,supermarket,5
+4,2,Orbit chewing gum,155,2,SPAR,Bartók Béla street 51,1114,Budapest,3.9,supermarket,5
+5,1,Coca Cola,229,3,Lidl,Bartók Béla street 47,1114,Budapest,4.2,supermarket,8
+6,2,Orbit chewing gum,155,3,Lidl,Bartók Béla street 47,1114,Budapest,4.2,supermarket,8
+7,1,Coca Cola,319,4,DM,Bartók Béla street 3-5,1114,Budapest,4.5,drugstore,2
+8,2,Orbit chewing gum,289,4,DM,Bartók Béla street 3-5,1114,Budapest,4.5,drugstore,2
+9,1,Coca Cola,289,5,Familyshop,Bartók Béla street 2,1111,Budapest,4.5,discounter,2
+10,2,Orbit chewing gum,145,5,Familyshop,Bartók Béla street 2,1111,Budapest,4.5,discounter,2
+11,1,Coca Cola,248,6,SPAR,Bartók Béla street 14,1111,Budapest,4,supermarket,2
+12,2,Orbit chewing gum,155,6,SPAR,Bartók Béla street 14,1111,Budapest,4,supermarket,2
+13,1,Coca Cola,299,7,CBA,Bercsényi street 36,1111,Budapest,na,discounter,1
+14,2,Orbit chewing gum,159,7,CBA,Bercsényi street 36,1111,Budapest,na,discounter,1
+15,1,Coca Cola,319,8,Rossmann,Bartók Béla street 48,1111,Budapest,4.3,drugstore,2
+16,2,Orbit chewing gum,239,8,Rossmann,Bartók Béla street 48,1111,Budapest,4.3,drugstore,2
+17,1,Coca Cola,229,9,SPAR,Október huszonharmadika street 8-10,1117,Budapest,4.1,supermarket,30
+18,2,Orbit chewing gum,145,9,SPAR,Október huszonharmadika street 8-10,1117,Budapest,4.1,supermarket,30
+19,1,Coca Cola,319,10,DM,Október huszonharmadika street 8-10,1117,Budapest,3.5,drugstore,2
+20,2,Orbit chewing gum,289,10,DM,Október huszonharmadika street 8-10,1117,Budapest,3.5,drugstore,2
+21,1,Coca Cola,359,11,INMEDIO,Október huszonharmadika street 8-10,1117,Budapest,na,discounter,1
+22,2,Orbit chewing gum,235,11,INMEDIO,Október huszonharmadika street 8-10,1117,Budapest,na,discounter,1
+23,1,Coca Cola,350,12,Discounter/Local shop,Váli street 6,1117,Budapest,4.7,discounter,1
+24,2,Orbit chewing gum,190,12,Discounter/Local shop,Váli street 6,1117,Budapest,4.7,discounter,1
+25,1,Coca Cola,299,13,Tobacco shop,Karinthy Frigyes street 13,1117,Budapest,na,tobacco shop,1
+26,2,Orbit chewing gum,185,13,Tobacco shop,Karinthy Frigyes street 13,1117,Budapest,na,tobacco shop,1
+27,1,Coca Cola,295,14,Discounter/Local shop,Bicskei street 10,1117,Budapest,na,discounter,1
+28,2,Orbit chewing gum,170,14,Discounter/Local shop,Bicskei street 10,1117,Budapest,na,discounter,1
+29,1,Coca Cola,310,15,Tobacco shop,Karinthy Frigyes street 12,1117,Budapest,na,tobacco shop,1
+30,2,Orbit chewing gum,160,15,Tobacco shop,Karinthy Frigyes street 12,1117,Budapest,na,tobacco shop,1
+31,1,Coca Cola,320,16,"""Reál"" discounter",Budafoki street 57,1111,Budapest,3.7,discounter,1
+32,2,Orbit chewing gum,175,16,"""Reál"" discounter",Budafoki street 57,1111,Budapest,3.7,discounter,1
+33,1,Coca Cola,290,17,Tobacco shop,Karinthy Frigyes street 28,1111,Budapest,4.3,tobacco shop,1
+34,2,Orbit chewing gum,130,17,Tobacco shop,Karinthy Frigyes street 28,1111,Budapest,4.3,tobacco shop,1
+35,1,Coca Cola,399,18,MOL,Irinyi József street 45,1117,Budapest,4.1,gas station,2
+36,2,Orbit chewing gum,215,18,MOL,Irinyi József street 45,1117,Budapest,4.1,gas station,2
+37,1,Coca Cola,219,19,SPAR,Irinyi József street 34,1117,Budapest,3.8,supermarket,4
+38,2,Orbit chewing gum,145,19,SPAR,Irinyi József street 34,1117,Budapest,3.8,supermarket,4
+39,1,Coca Cola,399,20,OMV/Spar Express,Irinyi József street 34-36,1117,Budapest,4.1,gas station,2
+40,2,Orbit chewing gum,219,20,OMV/Spar Express,Irinyi József street 34-36,1117,Budapest,4.1,gas station,2
+41,1,Coca Cola,280,21,ABC,Berky Lili u. 48,1171,Budapest,na,local shop,1
+42,2,Orbit chewing gum,140,21,ABC,Berky Lili u. 48,1171,Budapest,na,local shop,1
+43,1,Coca Cola,290,22,Tobacco shop,Pesti út 338,1171,Budapest,3.9,tobacco shop,1
+44,2,Orbit chewing gum,165,22,Tobacco shop,Pesti út 338,1171,Budapest,3.9,tobacco shop,1
+45,1,Coca Cola,229,23,Aldi,Pesti út 237p,1171,Budapest,4.4,supermarket,7
+46,2,Orbit chewing gum,155,23,Aldi,Pesti út 237p,1171,Budapest,4.4,supermarket,7
+47,1,Coca Cola,229,24,Lidl,Pesti út 237h,1173,Budapest,4.4,supermarket,6
+48,2,Orbit chewing gum,155,24,Lidl,Pesti út 237h,1173,Budapest,4.4,supermarket,6
+49,1,Coca Cola,300,25,Tobacco shop,Pesti út 237h,1173,Budapest,3.8,tobacco shop,1
+50,2,Orbit chewing gum,150,25,Tobacco shop,Pesti út 237h,1173,Budapest,3.8,tobacco shop,1
+51,1,Coca Cola,249,26,Lukoil/Despar,Pesti út 237g,1173,Budapest,4.3,gas station,1
+52,2,Orbit chewing gum,169,26,Lukoil/Despar,Pesti út 237g,1173,Budapest,4.3,gas station,1
+53,1,Coca Cola,429,27,Shell/Select,Pesti út 237c,1173,Budapest,4.4,gas station,2
+54,2,Orbit chewing gum,259,27,Shell/Select,Pesti út 237c,1173,Budapest,4.4,gas station,2
+55,1,Coca Cola,219,28,SPAR,Maroshévíz u. 1,1173,Budapest,4,supermarket,4
+56,2,Orbit chewing gum,145,28,SPAR,Maroshévíz u. 1,1173,Budapest,4,supermarket,4
+57,1,Coca Cola,319,29,DM,Pesti út 170,1173,Budapest,4.7,drugstore,2
+58,1,Coca Cola,279,30,Chinese discounter (Napi vegyesbolt),Ferihegyi út 72,1173,Budapest,3,discounter,1
+59,2,Orbit chewing gum,159,30,Chinese discounter (Napi vegyesbolt),Ferihegyi út 72,1173,Budapest,3,discounter,1
+60,1,Coca Cola,290,31,Tobacco shop,Kaszáló u. 47,1173,Budapest,na,tobacco shop,1
+61,2,Orbit chewing gum,170,31,Tobacco shop,Kaszáló u. 47,1173,Budapest,na,tobacco shop,1
+62,1,Coca Cola,270,32,Discounter/Local shop,Kaszáló u. 47,1173,Budapest,na,discounter,2
+63,2,Orbit chewing gum,110,32,Discounter/Local shop,Kaszáló u. 47,1173,Budapest,na,discounter,2
+64,1,Coca Cola,250,33,Discounter/Local shop,Kaszáló u. 47,1173,Budapest,na,discounter,1
+65,2,Orbit chewing gum,120,33,Discounter/Local shop,Kaszáló u. 47,1173,Budapest,na,discounter,1
+66,1,Coca Cola,260,34,Tobacco shop,Kaszáló u. 47,1173,Budapest,na,tobacco shop,1
+67,2,Orbit chewing gum,160,34,Tobacco shop,Kaszáló u. 47,1173,Budapest,na,tobacco shop,1
+68,1,Coca Cola,270,35,Chinese shop,Kaszáló u. 51,1173,Budapest,na,discounter,2
+69,2,Orbit chewing gum,120,35,Chinese shop,Kaszáló u. 51,1173,Budapest,na,discounter,2
+70,1,Coca Cola,400,36,Gyros take away,Pesti út 170,1173,Budapest,na,fast food,1
+71,2,Orbit chewing gum,300,36,Gyros take away,Pesti út 170,1173,Budapest,na,fast food,1
+72,1,Coca Cola,299,37,Tobacco shop,Pesti út 169,1173,Budapest,na,tobacco shop,1
+73,2,Orbit chewing gum,170,37,Tobacco shop,Pesti út 169,1173,Budapest,na,tobacco shop,1
+74,1,Coca Cola,229,38,SPAR,Pesti út 169,1173,Budapest,3.7,supermarket,6
+75,2,Orbit chewing gum,155,38,SPAR,Pesti út 169,1173,Budapest,3.7,supermarket,6
+76,1,Coca Cola,229,39,OMV/Spar Express,Pesti út 16-18,1173,Budapest,4.2,gas station,2
+77,2,Orbit chewing gum,185,39,OMV/Spar Express,Pesti út 16-18,1173,Budapest,4.2,gas station,2
+78,1,Coca Cola,229,40,Penny,Pesti út 16,1173,Budapest,4,supermarket,3
+79,2,Orbit chewing gum,155,40,Penny,Pesti út 16,1173,Budapest,4,supermarket,3
+80,1,Coca Cola,280,41,Tobacco shop,Pesti út 16,1173,Budapest,na,tobacco shop,1
+81,2,Orbit chewing gum,150,41,Tobacco shop,Pesti út 16,1173,Budapest,na,tobacco shop,1
