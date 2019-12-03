@@ -1,0 +1,41 @@
+﻿shop_id;address ;shop_type;district;distance;coke price;fanta price
+1;Deák Ferenc tér metro;Kiosk;5;0.3 km;360;360
+2;József Attila ut. 16;Supermarket;5;0.35 km;339;339
+3;József Attila ut. 20;Market;5;0.26 km;299;299
+4;József Attila ut. 22;Tobacco shop;5;0.24 km;300;300
+5;Károly körút 22-24;Supermarket;5;0.6 km;229;229
+6;Kossuth Lajos ut. 13;Supermarket ;5;1.0 km;;
+7;Ferenciek tere 9;Tobacco shop;5;1.0 km;410;410
+8;Ferenciek tere metro;Kiosk;5;1.0 km;359;359
+9;Nagy Ignac ut. 2;Market;5;1.0 km;299;299
+10;Báthori ut. 8;Supermarket;5;1.0 km;299;259
+11;Báthori ut. 10;Tobacco shop;5;1.0 km;299;299
+12;Báthori ut. 19;Market;5;0.75 km;329;329
+13;Nagymező ut. 1;Market;5;0.75 km;295;295
+14;Bajcsi-Zsilinszky ut. 50;Tobacco shop;5;0.55 km;300;300
+15;Bajcsi-Zsilinszky ut. 61;Supermarket;5;1.0 km;219;
+16;Nyugati tér;Supermarket;5;1.2 km;229;229
+17;Nyugati tér;Kiosk;5;1.2 km;349;349
+18;Szent István krt 17;Supermarket;5;1.4 km;;
+19;Szent István krt 7;Market;5;1.6 km;350;350
+20;Szent István krt 5;Market;5;1.5 km;329;329
+21;Kiscelli ut. 14;Supermarket;3;5.4 km;339;339
+22;Kiscelli ut. 14;Tobacco shop;3;5.4 km;339;339
+23;Kiscelli ut. 4;Market;3;5.4 km;300;300
+24;Kiscelli ut. 2;Tobacco shop;3;5.4 km;290;290
+25;Pacsirtamező ut. 49;Tobacco shop;3;5.2 km;270;270
+26;Pacsirtamező ut. 11;Market;3;4.7 km;270;270
+27;Pacsirtamező ut. 41-43;Supermarket;3;5.0 km;229;229
+28;Pacsirtamező ut. 49;Supermarket;3;5.2 km;229;229
+29;Pacsirtamező ut. 49;Supermarket;3;5.2 km;280;
+30;Szépvölgyi ut. 5;Tobacco shop;3;4.1 km;299;299
+31;Kolossy ter 5;Tobacco shop;3;4.1 km;320;320
+32;Bécsi ut. 43;Tobacco shop;3;4.1 km;280;
+33;Bécsi ut. 43;Supermarket;3;4.1 km;275;275
+34;Csemete ut. 10;Market;3;4.2 km;279;279
+35;Bécsi ut. 88;Market;3;4.7 km;295;295
+36;Bécsi ut. 90;Tobacco shop;3;4.7 km;279;279
+37;Bécsi ut. 92;Supermarket;3;4.7 km;254;
+38;Viador ut. 18;Market;3;4.8 km;300;300
+39;Pacsirtamező ut. 22;Tobacco shop;3;4.8 km;285;270
+40;Pacsirtamező ut. 20;Market;3;4.8 km;299;

@@ -1,0 +1,43 @@
+District,Address,Store name,Feature 1: Type,Feature 2: Number of cashiers,Feature 3: Opens (weekday),Feature 3: Closes (weekday)
+21,Budapest; Szent Imre tér 6-8; 1211 Hungary,Aldi,Supermarket chain,5,6AM,10PM
+21,Budapest; Szent Imre tér 4; 1211 Hungary,Nemzeti Dohánybolt,Tobacco shop,1,6AM,10PM
+21,Budapest; Kossuth Lajos u. 69; 1211 Hungary,Penny Market,Supermarket chain,4,7AM,9PM
+21,Budapest; Kossuth Lajos u. 70; 1211 Hungary,Nemzeti Dohánybolt,Tobacco shop,1,6AM,10PM
+21,Budapest; Kossuth Lajos u. 70; 1211 Hungary,Tesco Xpress,Supermarket chain,3,7AM,10PM
+21,Budapest; Kossuth Lajos u. 85; 1211 Hungary,Szuper Dizkont,Discount chain,2,8AM,6:30PM
+21,Budapest; Kossuth Lajos u. 85; 1211 Hungary,Zoldseg-Gyumolcs,Vegetable shop,1,8AM,8PM
+21,Budapest; Kossuth Lajos u. 85; 1211 Hungary,Nemzeti Dohánybolt,Tobacco shop,2,12AM,12MN
+21,Budapest; Kossuth Lajos u. 98-96; 1211 Hungary,DM,Drug store chain,3,9AM,8PM
+21,Budapest; Kossuth Lajos u. 85-99; 1211 Hungary,Spar,Supermarket chain,3,6AM,10PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Nemzeti Dohánybolt - Csepel Plaza,Tobacco shop,1,6AM,10PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Aldi - Csepel Plaza,Supermarket chain,4,7AM,9PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Rossmann - Csepel Plaza,Drug store chain,2,8AM,8PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Fornetti - Csepel Plaza,Bakery,1,7AM,8PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Vending machine in Csepel Plaza,Vending machine,NA,7AM,9PM
+21,Budapest; II. Rákóczi Ferenc utca 154-170; 1213 Hungary,Cinema - Csepel Plaza,Snack store,3,,
+21,Budapest; Görgey Artúr tér 20; 1212 Hungary,Rossmann Drogéria Parfüméria,Drug store chain,3,8AM,8PM
+21,Budapest; Görgey Artúr tér 20; 1212 Hungary,Spar,Supermarket chain,6,7AM,9PM
+21,Budapest; Görgey Artúr tér 20; 1212 Hungary,Nemzeti Dohánybolt,Tobacco shop,1,6AM,10PM
+21,Budapest; Görgey Artúr tér 20; 1212 Hungary,Zöldség Sarok,Vegetable shop,1,8AM,8PM
+21,Budapest; Görgey Artúr tér 20; 1212 Hungary,Kínai Büfé,Restaurant,1,9:30AM,9:30PM
+21,Budapest; Kossuth Lajos u. 13; 1211 Hungary,Nemzeti Dohánybolt,Tobacco shop,1,6AM,10PM
+6,Budapest; Szinyei Merse u. 1; 1063,Tepi-market kft.,Convenience store,1,6AM,10PM
+6,Budapest; Szív u. 29; 1063 Hungary,CBA Prima,Supermarket chain,3,7AM,5PM
+6,Budapest; Andrássy út 82; 1062,Nemzeti Dohánybolt,Tobacco shop,1,,
+6,Budapest; Aradi u. 42; 1062,Reál pont,Convenience store,1,6AM,10PM
+6,Budapest; Aradi u. 34; 1062,Bella élelmiszer,Convenience store,1,6AM,10PM
+6,Budapest; Teréz krt. 19; 1067,Rossmann Drogéria Parfüméria,Supermarket chain,2,8AM,6PM
+6,Budapest; Aradi u. 4; 1062,Roni ABC,Convenience store,1,12AM,12MN
+6,Budapest; Teréz krt. 28; 1066,SPAR szupermarket,Supermarket chain,2,6:30AM,10PM
+6,Budapest; Aradi u. 14; 1062 Hungary,kingo market,Convenience store,1,9AM,8PM
+6,Budapest; Aradi u. 5; 1062 Hungary,Abc,Convenience store,1,6AM,10PM
+6,Budapest; Teréz krt. 36; 1066 Hungary,supermarket,Convenience store,1,,
+6,Budapest; Teréz krt. 54; 1066 Hungary,DM,Supermarket chain,2,,
+6,Budapest; Vörösmarty u. 63; 1064,National tobacco shop,Tobacco shop,1,7AM,8PM
+6,Budapest; Szondi u. 31; 1067,Nemzeti Dohánybolt,Tobacco shop,1,,
+6,Budapest; Szondi u. 44a; 1063,Szondi Élelmiszer,Convenience store,1,6AM,1AM
+6,Budapest; Szondi u. 43; 1064,Vegyes Kereskedés,Convenience store,1,8AM,2PM
+6,Budapest; Szondi u. 49-57; 1064,Reál ABC,Convenience store,1,7AM,5PM
+6,Budapest; Szondi u. 66; 1063,K&K Élelmiszer,Convenience store,2,6AM,10PM
+6,Szív u. 24; Budapest; 1063,Nemzeti Dohánybolt,Tobacco shop,1,,
+6,Budapest; Andrássy út 35; 1061,DM,Supermarket chain,2,8AM,9PM
