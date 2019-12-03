@@ -1,0 +1,285 @@
+Coke,Address,Name,InOut,Size
+275,"Budapest, DohĂˇny u. 44, 1074",nemzeti dohăˇnybolt,1,small
+279,"Budapest, ErzsĂ©bet krt. 19, 1073",spar,1,large
+299,"Budapest, ErzsĂ©bet krt. 26, 1073",chimpex diszkont,1,small
+299,"Budapest, WesselĂ©nyi u. 52, 1077",nemzeti dohăˇnybolt,1,small
+260,"Budapest, WesselĂ©nyi u. 56, 1077",min yuan,1,small
+300,"Budapest, WesselĂ©nyi u. 61, 1077",golden ă‰lelmiszer,1,small
+200,"Budapest, HĂˇrsfa u., 1074",mp prime market,1,small
+300,"Budapest, DohĂˇny u. 96, 1074",atar,1,small
+290,"Budapest, WesselĂ©nyi u. 59, 1077",nemzeti dohăˇnybolt,1,small
+350,"Budapest, KlauzĂˇl u. 1, 1072",nemzeti dohăˇnybolt,1,small
+299,"Budapest, ErzsĂ©bet krt. 7, 1073",market point,1,small
+299,"Budapest, WesselĂ©nyi u. 58, 1077",golden ă‰lelmiszer,1,small
+299,"Budapest, WesselĂ©nyi u. 60, 1077",coop,1,medium
+310,"Budapest, HuszĂˇr u. 5, 1074","""ză¶ldsă©ges - ă‰lelmiszer""",1,small
+280,"Budapest, Izabella u. 5-9, 1077",csalăˇdi csemegebolt,1,small
+299,"Budapest, Izabella u. 34, 1077",roni abc,1,small
+300,"Budapest, KirĂˇly u. 67, 1077",nemzeti dohăˇnybolt,1,small
+290,"Budapest, WesselĂ©nyi u. 59, 1077",nemzeti dohăˇnybolt,1,small
+280,"Budapest, KirĂˇly u. 91, 1077",kirăˇly csemege,1,small
+250,"Budapest, Hevesi SĂˇndor tĂ©r 1, 1077",izabella diszkont,1,small
+330,ErzsĂ©bet KirĂˇlynĂ© street 109,liza market,0,small
+300,"Erzs Kir 76/A, 1142 Bp.",mini coop,0,small
+300,"Erzs Kir 63, 1142 Bp.",abc-abc,0,small
+229,"Erzs Kir 32, 1142 Bp.",spar,0,large
+300,"Erzs Kir 107, 1142 Bp.",csemegebolt,0,small
+349,"ThĂ¶kĂ¶ly street 122, 1146 Bp.",cba,0,small
+275,"ThĂ¶kĂ¶ly street 151, 1146 Bp.",tesco - expressz,0,medium
+315,"Nagy Lajos kir 212, 1149 Bp.",cba pră­ma,0,medium
+290,"Nagy Lajos kir. 189, 1149 Bp.",coop,0,medium
+250,MexikĂłi Ăşt station,vegyesbolt,0,small
+299,MexikĂłi Ăşt station,abc,0,small
+349,MexikĂłi Ăşt station,"""ză¶ldsă©ges bolt""",0,small
+299,RĂłzsavĂ¶lgyi sq 9,reăˇl pont,0,small
+249,"Nagy Lajos street 126, 1149 Bp.",pră©mium ă‰lelmiszer,0,small
+269,"Nagy Lajos street 139, 1149 Bp.",coop,0,medium
+295,"Kassai sq 11., 1142 Bp.",manna,0,small
+255,"Kacsoh PongrĂˇc street 133., 1146 Bp",spar expressz,0,medium
+249,UngvĂˇr street 50,spar,0,large
+275,"Erzs Kir 125., 1142 Bp",tesco - expressz,0,medium
+280,"Amerikai street 67., 1145 Bp.",cba,0,small
+259,Budapest 1114 VillĂˇnyi street 1,groby,1,small
+229,Budapest 1114 BartĂłk BĂ©la street 51,spar,1,large
+229,Budapest 1114 BartĂłk BĂ©la street 47,lidl,1,large
+319,Budapest 1114 BartĂłk BĂ©la street 3-5,dm,1,large
+289,Budapest 1111 BartĂłk BĂ©la street 2,familyshop,1,small
+248,Budapest 1111 BartĂłk BĂ©la street 14,spar,1,large
+299,Budapest 1111 BercsĂ©nyi street 36,cba,1,small
+319,Budapest 1111 BartĂłk BĂ©la street 48,rossmann,1,medium
+229,Budapest 1117 OktĂłber huszonharmadika street 8-10,spar,0,large
+319,Budapest 1117 OktĂłber huszonharmadika street 8-10,dm,0,large
+359,Budapest 1117 OktĂłber huszonharmadika street 8-10,inmedio,0,small
+350,Budapest 1117 VĂˇli street 6,discounter/local shop,0,small
+299,Budapest 1117 Karinthy Frigyes street 13,tobacco shop,0,small
+295,Budapest 1117 Bicskei street 10,discounter/local shop,0,small
+310,Budapest 1117 Karinthy Frigyes street 12,tobacco shop,0,small
+320,Budapest 1111 Budafoki street 57,"""reăˇl"" discounter",1,small
+290,Budapest 1111 Karinthy Frigyes street 28,tobacco shop,1,small
+399,Budapest 1117 Irinyi JĂłzsef street 45,mol,0,small
+219,Budapest 1117 Irinyi JĂłzsef street 34,spar,0,large
+399,Budapest 1117 Irinyi JĂłzsef street 34-36,omv/spar express,0,medium
+280,Budapest 1171 Berky Lili u. 48,abc,0,small
+290,Budapest 1171 Pesti Ăşt 338,tobacco shop,0,small
+229,Budapest 1171 Pesti Ăşt 237p,aldi,0,large
+229,Budapest 1173 Pesti Ăşt 237h,lidl,0,large
+300,Budapest 1173 Pesti Ăşt 237h,tobacco shop,0,small
+249,Budapest 1173 Pesti Ăşt 237g,lukoil/despar,0,medium
+429,Budapest 1173 Pesti Ăşt 237c,shell/select,0,small
+219,Budapest 1173 MaroshĂ©vĂ­z u. 1,spar,0,large
+319,Budapest 1173 Pesti Ăşt 170,dm,0,large
+279,Budapest 1173 Ferihegyi Ăşt 72,chinese discounter (napi vegyesbolt),0,small
+290,Budapest 1173 KaszĂˇlĂł u. 47,tobacco shop,0,small
+270,Budapest 1173 KaszĂˇlĂł u. 47,discounter/local shop,0,small
+250,Budapest 1173 KaszĂˇlĂł u. 47,discounter/local shop,0,small
+260,Budapest 1173 KaszĂˇlĂł u. 47,tobacco shop,0,small
+270,Budapest 1173 KaszĂˇlĂł u. 51,chinese shop,0,small
+400,Budapest 1173 Pesti Ăşt 170,gyros take away,0,small
+299,Budapest 1173 Pesti Ăşt 169,tobacco shop,0,small
+229,Budapest 1173 Pesti Ăşt 169,spar,0,large
+229,Budapest 1173 Pesti Ăşt 16-18,omv/spar express,0,medium
+229,Budapest 1173 Pesti Ăşt 16,penny,0,medium
+280,Budapest 1173 Pesti Ăşt 16,tobacco shop,0,small
+275,Budapest 1091 Kalvin ter 7,tesco express,1,medium
+250,Budapest 1093 Vamhaz krt 7,azsia diszkont,1,medium
+229,Budapest 1093 Vamhaz krt 1,aldi,1,large
+328,Budapest 1092 Raday u 33/a,nemzeti dohanybolt,1,small
+229,Budapest 1092 Raday u 32,city spar,1,medium
+290,Budapest 1092 Raday u 18,david csemege,1,small
+249,Budapest 1092 Kinizsi u 19,szuper diszkont,1,medium
+270,Budapest 1092 Raday u 51,vegyeskereskedes diszkont,1,small
+299,Budapest 1092 Ferenc krt 22,roni abc,1,small
+319,Budapest 1094 Ferenc krt 23,rossmann,1,medium
+399,Budapest 1094 Balazs Bela utca 34,nemzeti dohanybolt,1,small
+299,Budapest 1096 Telepy utca 4,real elelmiszer,1,medium
+280,Budapest 1094 Tuzolto utca 75,non-stop elelmiszer,1,small
+275,Budapest 1094 Thaly Kalman utca 46-48,tesco express,1,medium
+250,Budapest 1094 Berenczey utca 17,homes,1,medium
+280,Budapest 1094 Tompa utca 17,shop vegyesaru,1,medium
+420,Budapest 1094 Mester utca 4-6,nemzeti dohanybolt,1,small
+229,Budapest 1094 Mester utca 1,city spar,1,medium
+269,Budapest 1094 Ferenc Krt 15,dda diszkont,1,medium
+280,Budapest 1094 Tuzolto utca 1,szuper diszkont,1,medium
+199,Budapest 1101 Gyomroi ut 99,auchan,0,large
+229,Budapest 1108 Ujhegyi stny 18,spar szupermarket,0,large
+229,Budapest 1103 Sibrik Miklos utca 30/b,lidl,0,large
+229,Budapest 1103 Sibrik Miklos ut 30,interspar hipermarket,0,large
+229,Budapest 1102 Liget ter 5,spar szupermarket,0,large
+269,Budapest 1108 Madi utca 172,luxe diszkont aruhaz,0,medium
+299,Budapest 1104 Sorgyar utca 75,real elelmiszer,0,medium
+339,Budapest 1106 Kada utca 22,prima,0,medium
+299,Budapest 1104 Madi utca 98,idevar abc,0,small
+299,Budapest 1108 Sibrik Miklos ut 83,elelmiszer bolt,0,small
+370,Budapest 1103 Gergely utca 2,gergely abc,0,small
+349,Budapest 1103 Gergely utca 37,vitamin abc,0,small
+279,Budapest 1101 Hungaria krt 5-7,real elelmiszer,0,medium
+229,Budapest 1102 Korosi Csoma Sandor ut 35-37,spar szupermarket,0,large
+229,Budapest 1103 Gyomroi ut 56-62,spar szupermarket,0,large
+299,Budapest 1106 Rezvirag utca 10,nadas bt abc-je,0,small
+339,Budapest 1102 Korosi Csoma Sandor stny 2,prima liget,0,large
+269,Budapest 1101 Kobanyai ut 42,r+e csemege,0,small
+299,Budapest 1103 Kapolna utca 33,coop abc elelmiszer,0,large
+299,Budapest 1102 Onodi utca 9,coop mini,0,medium
+344,Budapest 8 Rakoczi UT 24,dieta,1,large
+319,Budapest 8 Rakoczi UT 24,dm,1,large
+299,Budapest 8 Aurora UT 18,abc 0-24,1,medium
+279,Budapest 8 Karacsony Sandor u,real pont,1,medium
+299,Budapest 8 Rakoczi UT 24,roni abc,1,small
+500,Budapest 8 Baross  u 1,sovenir,1,small
+339,Budapest 8 Rakoczi UT 24,elelmiszer,1,medium
+344,Budapest 8 Nepszinhaz  u 21,kashmir bazar ,1,small
+500,Budapest 8 Rakoczi ut 58,budapest sovenir,1,small
+229,Budapest 8 Rakoczi ut 19,city spar,1,medium
+229,Budapest 8 Jozsef krt. 45,penny market,1,large
+269,Budapest 8 Gutenberg ter 13,boldog kft. abc,1,small
+268,Budapest 8 Vas  u 12,csemege sarok,1,small
+275,Budapest 8 Kalvin ter 7,tesco,1,large
+339,Budapest 8 Anker koz 1,prima,1,medium
+299,Budapest 8 Dohany  u 9,sudu fast food,1,small
+350,Budapest 8 Vamhaz krt. 7,azsia diszkont,1,medium
+295,Budapest 8 Baross  u 1,mana abc,1,large
+275,Budapest 8 Rakoczi ut. 1-3,tesco expressz,1,large
+279,Budapest 8 Garibaldi  u 7,garibaldi abc,1,small
+229,Budapest 8 Karoly krt 22-24,city spar,1,medium
+339,Budapest 8 Erzsebet krt. 58,prima,1,medium
+310,Budapest 8 Karoly krt. 21,nemzeti dohanybolt,1,small
+280,Budapest 10 ors vezer tere 25A Arkad Mall ,,0,small
+280,Budapest 10 ors vezer tere 25A Arkad Mall ,nemzeti dohanybolt,0,small
+300,Budapest 10 ors vezer tere 25A Arkad Mall ,finimini latvangrekseg,0,small
+360,Budapest 10 ors vezer tere 25A Arkad Mall ,princess,0,large
+240,Budapest 10 ors vezer tere 25A Arkad Mall ,szendvicsbar,0,small
+410,Budapest 10 ors vezer tere 25A Arkad Mall ,llipoti peks,0,small
+229,Budapest 10 ors vezer tere 25A Arkad Mall ,small spar,0,large
+359,Budapest 10 ors vezer tere 25A Arkad Mall ,relay,0,medium
+309,Budapest 10 ors vezer tere 25A Arkad Mall ,inmedio,0,small
+300,Budapest 10 ors vezer tere 25A Arkad Mall ,aranycipo,0,medium
+450,Budapest 10 ors vezer tere 25A Arkad Mall ,sakura ramen,0,small
+450,Budapest 10 ors vezer tere 25A Arkad Mall ,nordsee,0,small
+450,Budapest 10 ors vezer tere 25A Arkad Mall ,fozelekfalo etelbar,0,small
+450,Budapest 10 ors vezer tere 25A Arkad Mall ,pizza pasta,0,large
+450,Budapest 10 ors vezer tere 25A Arkad Mall ,star kebab,0,small
+219,Budapest 10 ors vezer tere 25A Arkad Mall ,inter spar,0,large
+490,Budapest 10 ors vezer tere 25A Arkad Mall ,okay italia,0,small
+319,Budapest 10 ors vezer tere 25A Arkad Mall ,bcs,0,small
+229,Budapest 10 Kerepesi  UT 87,aldi,0,large
+250,Budapest 10 Kerepesi  UT 87,spar,0,large
+279,Budapest Vamhaz krt. 3,coop abc,1,small
+229,Budapest Vamhaz krt. 3,aldi,1,large
+250,Budapest Vámház krt. 7,ázsia diszkont,1,medium
+290,Budapest Kálvin tér 7,nemzeti dohánybolt,1,small
+199,Budapest Ráday u. 5-13,zoldseg-gyumolcs,1,small
+229,Budapest Ülloi út 14,aldi,1,large
+245,Budapest Baross u. 5,spar express,1,medium
+310,Budapest Ülloi út 30,abc,1,small
+339,Budapest Corvin köz 1,prima ,1,medium
+259,Budapest Futó u. 37,prima ,1,medium
+310,Budapest Jozsef krt.,pek - snack metro shop,1,small
+230,Budapest Páva u. 2,vegyes kereskedés diszkont,1,medium
+260,Budapest Mester u. 30-32,spar szupermarket,1,large
+300,Budapest Mester u. 36,diszkont,1,small
+249,Budapest Ipar u. 8,family diszkont center,1,medium
+265,Budapest Mester u. 48-52,spar market,1,medium
+270,Budapest Mester u. 51,supa abc,1,small
+250,Budapest Haller u.17 ,vegyes diszkont,1,medium
+299,Budapest Haller u. 15,nemzeti dohánybolt,1,small
+319,Budapest Soroksári út 30-34,rossmann,1,medium
+290,Budapest Ráday u. 18,david csemege,1,small
+295,Budapest Ráday u. 9,manna abc,1,small
+250,Budapest Thököly út 96,cba klasszis csemege,0,medium
+280,Budapest Dózsa György út 28,nemzeti dohánybolt,0,small
+260,Budapest Hungária krt. 188,vip abc,0,medium
+301,Budapest Hungária krt.  171,nemzeti dohánybolt,0,small
+245,Budapest Hungária krt. 173,spar express,0,medium
+300,Budapest Mexikói út 68,delikatesz csemege,0,small
+350,Budapest Mexikói út 68-69,finom pekseg&pizzeria,0,small
+350,Budapest Mexikói út 68-69,vegyesbolt,0,small
+350,Budapest Mexikói út 68-69,grocery store (no name),0,small
+399,Budapest Vágány u. 21,fresh corner,0,medium
+429,Budapest Vágány u. 2,select elelmiszer,0,medium
+270,Budapest Dózsa György út 64,vegyes kereskedes,0,small
+250,Budapest Dózsa György út 44,vegyes kereskedes,0,small
+429,Budapest Ilka u. 27,real elelmiszer,0,medium
+265,Budapest Szugló u. 82,premium elelmiszer,0,small
+260,Budapest Szugló u. 60-62,aldi,0,large
+280,Budapest Istvánmezei út 6,prima recsei,0,large
+290,Budapest Pillangó u. 15,tesco extra,0,large
+270,Budapest Nagy Lajos király útja 191,spar,0,large
+275,Budapest Nagy Lajos király útja 212,prima hermina ,0,large
+229,"Budapest, Bokenyfoldi ut 102, 1165",aldi,0,large
+269,"Budapest, Perjes u. 2, 1165",coop,0,medium
+259,"Budapest, Jokai Mor u. 2, 1165",cbaprima,0,medium
+229,"Budapest, Veres Peter ut 47, 1163",spar,0,large
+315,"Budapest, Ors vezer tere 25/A, 1106",muller,0,medium
+259,"Csomor, Hatar ut 6, 2141",auchan,0,large
+259,"Budapest, Rakosi u 142-146, 1162",tesco express,0,medium
+229,"Budapest, Ors vezer tere 25/A, 1106",interspar,0,large
+245,"Budapest, Szabadfold ut 1, 1164",omvspar,0,small
+399,"Budapest, Veres Peter ut 105-107, 1163",mol,0,small
+315,"Budapest, Kerepesi ut 89, 1106",avia,0,small
+280,"Budapest, Batsanyi Janos ut 27, 1163",sarkifuszeres,0,small
+300,"Budapest, NyĂ­lhegy u. 1, 1165",ujszaszabc,0,small
+298,"Budapest, Ujszasz u. 45b, 1165",edenkertabc,0,small
+319,"Budapest, Vidamvasar u. 1, 1164",real,0,small
+320,"Budapest, Ujszasz u. 87, 1165",matyascsemege,0,small
+319,"Budapest, Jokai Mor u. 4, 1165",rossmann,0,medium
+330,"Budapest, Feher ut 1, 1106",vendingmachine,0,small
+369,"Budapest, Ors vezer tere 25/A, 1106",inmedio,0,small
+359,"Budapest, Ors vezer tere 25/A, 1106",relay,0,medium
+300,"Budapest, Molnar u.20, 1056",molnar abc,1,small
+280,"Budapest, Iranyi u.21, 1056",akcios diszkont,1,small
+339,"Budapest, Veres Palne u. 12, 1052",cba,1,small
+290,"Budapest, Inner City Budapest, 1052",diszkont market,1,small
+319,"Budapest, Apaczai Csere Janos u. 1, 1051",hypbroker kft,1,small
+299,"Budapest, Apaczai Csere Janos u. 5, 1051",coop mini,1,medium
+290,"Budapest, Molnar u.14, 1056",koz-ert,1,small
+299,"Budapest, Jozsef  Attila u.16, 1051",prima,1,medium
+290,"Budapest, Nador u.5, 1051",koz-ert,1,small
+299,"Budapest, Sas u.1, 1051",roni abc,1,small
+299,"Budapest, Bajcsy-Zsilinszky u.15c, 1051",roni abc,1,small
+339,"Budapest, Deak Ferenc ter 100e, 1075",prima anker,1,small
+299,"Budapest, Pilvax koz u. 2, 1052",prima,1,medium
+350,"Budapest, Haris koz u.3, 1052",mini-market,1,small
+339,"Budapest, Nador u. 18, 1054",cbaprima,1,medium
+320,"Budapest, Arany Janos u. 33, 1051",gold delicatesse,1,small
+329,"Budapest, Bathory utca 19, 1054",bathory abc,1,small
+229,"Budapest, Vertanuk tere 1, 1054",city spar,1,medium
+299,"Budapest, Kecskemeti u. 9/a, 1053",avt abc,1,small
+295,"Budapest, Vamhaz krt. 16, 1053",manna abc,1,small
+219,Budapest 3 Becsi ut,interspar,1,large
+275,Budapest 3 Kolosy ter,tesco expressz,1,large
+299,Budapest 3 Kolosy ter,cba gourmet,1,medium
+295,Budapest 3 Szepvolgyi ut,7-22 abc,1,small
+285,Budapest 3 Folyondar utca,honi elelmiszer,1,small
+299,Budapest 3 Kiscelli utca,coop abc,1,small
+339,Budapest 3 Kiscelli utca,cba elelmiszer supermarket,1,small
+299,Budapest 3 Szolo utca,vegyes elelmiszerbolt,1,small
+339,Budapest 3 Gyenes utca,cba prima,1,small
+229,Budapest 3 Vorosvari ut,spar szupermarket,1,large
+299,Budapest 3 Vorosvari ut,genius abc elelmiszerbolt,1,small
+295,Budapest 3 Vihar utca,cba piac elelmiszerbolt,1,small
+279,Budapest 3 Vihar utca,cba prima,1,small
+229,Budapest 3 Huszti ut,aldi,1,large
+229,Budapest 3 Huszti ut,penny,1,medium
+329,Budapest 3 Szentenderi ut,cba prima,1,small
+339,Budapest 3 Florian ter,cba prima,1,small
+295,Budapest 3 Becsi ut,manna abc non-stop,1,small
+254,Budapest 3 Becsi ut,spar to go,1,small
+290,Budapest 9 Raday utca,nemzeti dohanybolt,0,small
+289,Budapest 9 Raday utca,zoldseg-gyumolcs vegyes bolt,0,small
+295,Budapest 9 Raday utca,manna abc non-stop,0,small
+229,Budapest 9 Ulloi ut,aldi,0,large
+328,Budapest 9 Raday utca,nemzeti dohanybolt,0,small
+229,Budapest 9 Raday utca,spar szupermarket,0,large
+209,Budapest 9 Kinizsi utca,szuper diszkont,0,medium
+239,Budapest 9 Raday utca,azsiai diszkont,0,small
+285,Budapest 9 Bakats utca,nemzeti dohanybolt,0,small
+270,Budapest 9 Bakats ter,vegyeskereskedžs,0,medium
+259,Budapest 9 Kopp‡ny u.,tesco,0,large
+269,Budapest 9 Kšnyves K‡lm‡n kšrśt,re‡l,0,small
+319,Budapest 9 Telepy u.,re‡l lelmiszer,0,small
+319,Budapest 9 Mih‡lkovics u.,re‡l lelmiszer,0,small
+299,Budapest 9 Mester u,vegyes diszkont,0,medium
+239,Budapest 9 Mester u,spar szupermarket,0,large
+229,Budapest 9 Mester u,spar szupermarket,0,large
+229,Budapest 9 Mester u,city spar,0,medium
+270,Budapest 9 Mester u,mester abc,0,small
