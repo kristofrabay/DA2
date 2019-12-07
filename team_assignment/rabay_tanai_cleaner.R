@@ -73,7 +73,7 @@ View(data2)
 data2$Address <- paste(data2$Address_City,data2$Address_ZIP,data2$Address_Street)
 data2 <- data2 %>% filter(Product == "Coca Cola") %>% select(-ID, -Product_ID, -Product, -Shop_ID, -(Address_Street:Address_City), -Google.Rating, -Number_of_cashiers) %>% rename("Coke" = Price,
                                                              "Name" = Shop_Name)
-data2$InOut <- ifelse(grepl("117", data2$Address)==T,0,1)
+data2$InOut <- ifelse(grepl("1111|1114|1117", data2$Address)==T,1,0)
 
 
 colnames(data3)
@@ -121,7 +121,7 @@ colnames(data7)
 View(data7)
 data7$Address <- paste("Budapest",data7$district,data7$street)
 data7 <- data7 %>% select(-store_brand, -(discount_rate_Coke:discount_rate_heineken), -obs_ID, -street, -Date, -store_type, -traffic_footfall, -store_feel) %>% rename("Name" = store_name, "Coke" = price_coke, "InOut" = district, "Size" = store_size) %>% filter(!is.na(Coke))
-data7$InOut <- ifelse(grepl("3", data7$InOut)==T,1,0)
+data7$InOut <- ifelse(grepl("3", data7$InOut)==T,0,1)
 
 # step 7: merge dfs together by the identical Name, Address and Price variables
 
@@ -162,8 +162,6 @@ unique(merged$Size)
 
 merged %>% group_by(Size) %>% summarize(count = n()) %>% arrange(desc(count))
 
-saveRDS(merged, "team_assignment/to_analyze.rds")
-
 
 # step 9: deal with NA in size: will have to go half automated half manual
 
@@ -199,6 +197,36 @@ merged$Size[is.na(merged$Size)] <- "small"
 unique(merged$Size)
 
 merged %>% group_by(Size) %>% summarize(count = n()) %>% arrange(desc(count))
+
+View(merged)
+
+names(merged)[1] <- "price_coke"
+names(merged)[2] <- "address"
+names(merged)[3] <- "name"
+names(merged)[5] <- "store_size"
+
+# add districts for further analysis 
+
+merged$ID <- seq.int(nrow(merged))
+
+merged$district <- ifelse(merged$ID < 21, 7,
+                             ifelse(merged$ID < 41, 14,
+                                    ifelse(merged$ID < 61, 11,
+                                           ifelse(merged$ID < 82, 17,
+                                                  ifelse(merged$ID < 102, 9,
+                                                         ifelse(merged$ID < 122, 10,
+                                                                ifelse(merged$ID < 145, 8,
+                                                                       ifelse(merged$ID < 165, 10,
+                                                                              ifelse(merged$ID < 187, 9,
+                                                                                     ifelse(merged$ID < 207, 14,
+                                                                                            ifelse(merged$ID < 224, 16,
+                                                                                                   ifelse(merged$ID < 227, 10,
+                                                                                                          ifelse(merged$ID < 247, 5,
+                                                                                                                 ifelse(merged$ID < 266, 3,
+                                                                                                                        9))))))))))))))
+
+
+View(merged)
 
 # step 10: finally, save the datatable ready for analysis
 
